@@ -1,0 +1,182 @@
+* {
+	outline: 2px solid red;
+}
+html, body {
+	height: 100%;
+	margin: 0;
+	background-color: hsl(0,0%,85%);
+}
+.container {
+	width: 100%;
+	margin: 0 auto;
+	background-color: hsl(0,0%,100%);
+}
+.mbar {
+	width: 100%;
+	height: 65px;
+}
+.left-mbar {
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+.left-mbar-1 {
+	float:left;
+	width: 30px;
+	height: 30px;
+	background-color: white;
+}
+.left-mbar-1 img {
+	width:100%;
+	height: 100%;
+}
+.left-mbar-2 {
+	float:left;
+	width: 2px;
+	height: 30px;
+	border-right: green;
+	background-color: gray;
+}
+.left-mbar-3 {
+	float:left;
+	width: 30px;
+	height: 30px;
+}
+.left-mbar-3 img {
+	height: 100%;
+	width: 100%;
+}
+.space {
+	margin-right: 5px;
+	margin-top: 18px;
+	text-align: center;
+}
+.right-mbar {
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+.right-signin {
+	float:right;
+	width: 130px;
+	height: 32px;
+	line-height: 32px;
+	border-radius: 40px;
+	border: 1px solid green;
+}
+.right-search {
+	float:right;
+	width: 30px;
+	height: 32px;
+	margin-right: 20px;
+	border-radius: 40px;
+	color: #57ad68;
+}
+.right-search img {
+	height: 100%;
+	width: 100%;
+}
+.authorSection {
+	height: 50px;
+	width: 100%;
+	padding-bottom: 10px;
+}
+.authorSection-Left {
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+.authorSection-Left-avatar {
+	width: 40px;
+	height: 100%;
+	float: left;
+}
+.authorSection-Left-avatar img{
+	width: 100%;
+	padding: 5px 0px;
+	border-radius: 40px;
+}
+.authorSection-Left-Info {
+	height: 100%;
+	line-height: 20px;
+	margin-left: 15px;
+	float: left;
+}
+.authorSection-Right {
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+.authorSection-Right-voteWidget {
+	height: 100%;
+	width: 127px;
+	float: right;
+}
+.authorSection-Right-voteWidget-info {
+	height: 100%;
+	display: inline-block;
+	text-align: right;
+	float: left;
+}
+.authorSection-Right-voteWidget img {
+	height: 22px;
+	width:  22px;
+	float: right;
+	padding: 14px 0px;
+}
+
+
+
+p {
+	padding: 0;
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logo {
+	height: 100%;
+	width: 33px;
+	text-align: center;
+	font-size: 27px;
+	color: #333332;
+	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+	float: left;
+}
+.logo img {
+	height: 33px;
+	width: 33px;
+	margin-top: 14px;
+}
+.TopContent {
+	float: left;
+
+}
+.rightSideNav {
+	width: 179px;
+	height: 100%;
+	float: right;
+	text-align: center;
+}
+.graf-image {
+	width: 100%;
+}
+.contents {
+	height: 
+}
